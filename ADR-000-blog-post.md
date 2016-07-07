@@ -1,7 +1,9 @@
 # Documenting Architecture Decisions
 
-Source:
-http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+This document was copied verbatim from the blog post [Documenting Architeture
+Decisions][post] written by [Michael Nygard][author].
+
+Go back to the [index](/README.md)
 
 ## Context
 
@@ -116,3 +118,6 @@ The motivation behind previous decisions is visible for everyone, present and
 future. Nobody is left scratching their heads to understand, "What were they
 thinking?" and the time to change old decisions will be clear from changes in
 the project's context.
+
+[post]: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+[author]: http://thinkrelevance.com/team/members/michael-nygard

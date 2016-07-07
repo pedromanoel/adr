@@ -10,5 +10,6 @@ funcionam.
 ## Índice
 
 * [ADR-000](/ADR-000-blog-post.md) Documenting Architecture Decisions
+* [ADR-001](/ADR-001-ptBR.md) Minha visão sobre ADRs
 
 [post]: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
